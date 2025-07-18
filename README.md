@@ -1,12 +1,26 @@
-# Chat - AI
+# Chat-AI
 
-AI Chat App using Generative Language Client API
+**Chat-AI** is a modern AI-powered chat application built using **React (Vite)** and the **Google Generative Language Client API (Gemini)**.  
+It allows users to interact with AI in real-time, leveraging the capabilities of Gemini's `generateContent` endpoint.
 
-[chat-ai](https://ai.visheshpandey.com)
+[Live Demo](https://therajeev.me/)
 
-## Setup Procedure
+---
 
-- Copy .env.example to .env
-- Get API key from: [api-key](https://aistudio.google.com/app/apikey)
-- `npm install`
-- `npm run dev`
+## 🚀 Features
+
+- **AI-powered chat** using the latest Gemini API.
+- **Real-time responses** with a clean and minimal UI.
+- **Environment variable support** for secure API key management.
+- **Fast build and development** using Vite.
+- **Axios integration** for API requests.
+- Fully customizable and developer-friendly.
+
+---
+
+## 🛠️ Setup Instructions
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/rajeevroy21/Chat-ai.git
+cd Chat-ai
